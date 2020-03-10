@@ -1,0 +1,7 @@
+CurrencyToEnglishConverter/.vs/*
+CurrencyToEnglishConverter/CurrencyConverterLibrary/bin/*
+CurrencyToEnglishConverter/CurrencyConverterLibrary/obj/*
+CurrencyToEnglishConverter/CurrencyConverterLibraryTests/bin/*
+CurrencyToEnglishConverter/CurrencyConverterLibraryTests/obj/*
+CurrencyToEnglishConverter/CurrencyToEnglishConverterConsole/bin/*
+CurrencyToEnglishConverter/CurrencyToEnglishConverterConsole/obj/*
